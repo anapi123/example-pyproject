@@ -5,4 +5,6 @@ name = "example-pyproject"
 version = "0.0.1a1"
 license = "MIT"
 license_file = "pretend_LICENSE.txt"
-author = [{name = "Blueberry Pancakes", email = "pancakes@gmail.com"}]
+authors = [{name = "Blueberry Pancakes", email = "pancakes@gmail.com"}]
+keywords = ["pancake_recipes", "recipes", "automated_pancakes"]
+requires-python = ">=3.10.12"
