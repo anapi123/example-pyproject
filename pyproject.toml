@@ -3,3 +3,6 @@
 name = "example-pyproject"
 # If under development, do like 0.0.1a1 rather than 0.0.1
 version = "0.0.1a1"
+license = "MIT"
+license_file = "pretend_LICENSE.txt"
+author = [{name = "Blueberry Pancakes", email = "pancakes@gmail.com"}]
